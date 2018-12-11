@@ -1,0 +1,2 @@
+# Academic-Time-Table-Management-System
+The project is basically managing all the classes timetable in which the subject is arranged according to the availability of faculty. It will choose the faculty according to their free time of availability as their may be more than one faculty for same subject so it will also check the time availability of each faculty which will make best arrangement in the timetable in the system. 
